@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src=![image](https://user-images.githubusercontent.com/91148108/185817819-2155cda8-ca44-4d4c-a746-2a5e1fdd9abc.png) width=1100px/>
+</div>
+
 <h1 align="center">Hi 👋, I'm Camila Abdala</h1>
 <h3 align="center">I'm a Software Developer (2022), a Self-learner programmer, used to face challenges as opportunities to grow. I'm like have new experiences and keep learning on the road.</h3>
 
